@@ -168,7 +168,9 @@ Send RPG live stories to SVT.
 ### [tableau.barnplay.app.borealis.svt.se/assets](https://tableau.barnplay.app.borealis.svt.se/assets)
 Open directories: https://tableau.barnplay.app.borealis.svt.se/assets
 ### [livegrid-livegrid-duo.svtdesign.app.borealis.svt.se](https://livegrid-livegrid-duo.svtdesign.app.borealis.svt.se)
-Livegrid duo camera sharing? 
+Livegrid duo camera sharing? Used for musikhjälpen.
+### [livegrid.stage.svt.se/](http://livegrid.stage.svt.se/)
+Livegrid instance.
 ### [appletv-oden.svtplaytv.dev.borealis.svt.se](https://appletv-oden.svtplaytv.dev.borealis.svt.se)
 Probably AppleTV API. Endpoints: https://appletv-oden.svtplaytv.dev.borealis.svt.se/ui/index https://appletv-oden.svtplaytv.dev.borealis.svt.se/ui/tv https://appletv-oden.svtplaytv.dev.borealis.svt.se/api https://appletv-oden.svtplaytv.dev.borealis.svt.se/health
 ### [publikmedia-proxy.barnplay.dev.borealis.svt.se](https://publikmedia-proxy.barnplay.dev.borealis.svt.se)
