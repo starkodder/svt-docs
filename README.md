@@ -14,7 +14,7 @@ Example paths: https://svt.my.salesforce-sites.com/KULprogramforslag/ https://sv
 ### [svtplay.se](https://svtplay.se)
 Used for watching movies from SVT. [Activate with code site](https://www.svtplay.se/aktivera)
 ### [nyhetsbrev.svtplay.se](https://nyhetsbrev.svtplay.se)
-Domain for getting personlaized SVTPlay newsletter, requires email verification. 
+Domain for getting personalized SVTPlay newsletter, requires email verification. 
 ### [exp.svtplay.se](http://exp.svtplay.se)
 Unknown, generates cloudflare 1001 error. 
 ### [www.stage.svtplay.se](http://www.stage.svtplay.se) & [stage.svtplay.se](http://stage.svtplay.se)
