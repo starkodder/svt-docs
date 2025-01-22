@@ -68,6 +68,8 @@ https://svenskanyheter.svt.se/downloads/StreckCutOut.pdf
 https://svenskanyheter.svt.se/downloads/JPehrsonCutOUT.pdf
 https://svenskanyheter.svt.se/assets/logo.png
 ```
+### [vipatv.svt.se](https://vipatv.svt.se)
+Unknown, redirects to [omoss.svt.se](https://omoss.svt.se).
 ### [reset.svt.se](https://reset.svt.se)
 Site for resetting your Microsoft account password, redirects to https://passwordreset.microsoftonline.com/.  
 ### [hbbtv.play.svt.se](https://hbbtv.play.svt.se)
@@ -195,6 +197,10 @@ Unknown, probably a SVTPlay TV manifest proxy. Example paths: https://ditto-n7s.
 Unknown, probably proxy, returns: "the cloud api proxy: f0e1003". Example paths: https://nielsen-cloud-proxy.svtplaytv.dev.borealis.svt.se/log https://nielsen-cloud-proxy.svtplaytv.dev.borealis.svt.se/live
 ### [emoji-dashboard.barnplay.dev.borealis.svt.se](https://emoji-dashboard.barnplay.dev.borealis.svt.se)
 Emoji dashboard timer test react app, used for emoji rain. 
+### [info-review-jaeger-disabled.bolibompa.dev.borealis.svt.se](http://info-review-jaeger-disabled.bolibompa.dev.borealis.svt.se)
+Unknown.
+### [helloworld-nodejs-knative-stage.aurora.app.borealis.svt.se](http://helloworld-nodejs-knative-stage.aurora.app.borealis.svt.se/)
+Unknown.
 ### [config.bolibompa.dev.borealis.svt.se](https://config.bolibompa.dev.borealis.svt.se)
 Unknown, requires BASIC authentication. 
 ### [vader-vaderbilder-svt-se.produtv.dev.borealis.svt.se](https://vader-vaderbilder-svt-se.produtv.dev.borealis.svt.se) & [vader-vaderbilder-svt-se.produtv.app.borealis.svt.se](https://vader-vaderbilder-svt-se.produtv.app.borealis.svt.se)
